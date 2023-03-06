@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Usman develoiper</code> and save to reload.
+          Testing <code> For AWS Deployment </code>
         </p>
         <a
           className="App-link"
